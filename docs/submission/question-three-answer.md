@@ -4,6 +4,8 @@
 
 The prototype implements the information architecture developed in Question Two as a static website with these pages: Home, About, Products, Health Tips, Gallery, FAQs, Contact, and a supporting Hosting Plan page for the academic submission.
 
+The published Netlify URL is: https://deft-lokum-2f20c7.netlify.app/
+
 Every page is traceable to the content inventory:
 
 - Home uses the cooperative name, mission summary, product highlights, health awareness highlight, and contact call-to-action.
@@ -28,7 +30,7 @@ Ugandan shared hosting at UGX 180,000 per year is affordable and may provide loc
 
 GitHub Pages is free for public repositories on GitHub Free and is suitable for a static student prototype. It provides custom domain configuration and an HTTPS enforcement option, but it does not provide built-in form handling and requires Git knowledge.
 
-Netlify is recommended because it supports Git-based deployment, manual deployment, drag-and-drop deployment of folders containing HTML files, serverless form handling, global delivery, deploy previews, and a clearer growth path for forms or future CMS integration. It can start at no cost or low cost and scale as the cooperative grows. This suits Kyankima's budget, mobile audience, and long-term goal of improving digital visibility.
+Netlify is recommended because it supports Git-based deployment, manual deployment, drag-and-drop deployment of folders containing HTML files, serverless form handling, global delivery, deploy previews, and a clearer growth path for forms or future CMS integration. It can start at no cost or low cost and scale as the cooperative grows. This suits Kyankima's budget, mobile audience, and long-term goal of improving digital visibility. The prototype was deployed on Netlify at https://deft-lokum-2f20c7.netlify.app/.
 
 AWS Amplify Hosting is powerful and pay-as-you-go, with CDN delivery and public SSL certificates, but it is more complex than Kyankima needs for the first static prototype.
 
@@ -50,7 +52,7 @@ When publishing to Netlify, capture annotated screenshots of:
 3. Upload or repository connection.
 4. Build settings showing no build command and root publish directory.
 5. Successful deploy log.
-6. Live website URL opened in a browser.
+6. Live website URL opened in a browser: https://deft-lokum-2f20c7.netlify.app/.
 
 ## Source Links
 

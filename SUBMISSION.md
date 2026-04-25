@@ -4,7 +4,11 @@
 
 Repository name: `rama-kwc`
 
-Live URL after GitHub Pages publication: `https://edengilbertus.github.io/rama-kwc/`
+Primary live URL after Netlify publication: `https://deft-lokum-2f20c7.netlify.app/`
+
+GitHub repository: `https://github.com/edengilbertus/rama-kwc`
+
+GitHub Pages mirror: `https://edengilbertus.github.io/rama-kwc/`
 
 ## Section A, Question Two
 
@@ -126,7 +130,7 @@ The prototype uses SVG placeholder illustrations instead of actual smartphone ph
 | GitHub Pages | Free for a static prototype, supports custom domains and HTTPS settings, but has no built-in form handling and requires Git knowledge. |
 | Netlify or AWS pay-as-you-go | Netlify is easier for this static site because it supports Git or drag-and-drop deployment, HTTPS, deploy previews, and form handling. AWS Amplify is powerful but more complex than needed for the first version. |
 
-Recommended option: Netlify for a real cooperative deployment, because it gives the best balance between low starting cost, mobile audience performance, future form handling, and long-term growth. For this academic submission, GitHub Pages is acceptable because the requirement allows any free hosting platform and the prototype is static.
+Recommended option: Netlify, because it gives the best balance between low starting cost, mobile audience performance, future form handling, and long-term growth. The submitted prototype has therefore been deployed on Netlify at `https://deft-lokum-2f20c7.netlify.app/`. GitHub Pages remains a useful public mirror because the project source is already stored in GitHub.
 
 ### Draft SLA
 
@@ -139,14 +143,14 @@ Recommended option: Netlify for a real cooperative deployment, because it gives 
 
 ### Deployment Evidence Checklist
 
-Screenshots to collect for the final report:
+Screenshots collected or to collect for the final report:
 
-1. GitHub account logged in.
-2. New repository named `rama-kwc`.
-3. Repository visibility set to public.
-4. Files pushed to the repository.
-5. GitHub Pages enabled from the `main` branch.
-6. Browser showing the live website at `https://edengilbertus.github.io/rama-kwc/`.
+1. Netlify account logged in.
+2. New Netlify site created for the Kyankima prototype.
+3. Site files uploaded or GitHub repository connected.
+4. Deploy log showing successful publication.
+5. Browser showing the live Netlify website at `https://deft-lokum-2f20c7.netlify.app/`.
+6. GitHub repository named `rama-kwc` showing the source files and public visibility.
 
 ### Source Links
 
