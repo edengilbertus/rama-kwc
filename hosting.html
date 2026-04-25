@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hosting Plan | Kyankima Women's Cooperative</title>
+    <meta name="description" content="Academic hosting evaluation, recommendation, SLA, and deployment evidence checklist for Kyankima Women's Cooperative.">
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="nav-wrap">
+        <a class="brand" href="index.html"><span class="brand-mark">KW</span><span class="brand-text">Kyankima Women <small>Mukono District</small></span></a>
+        <button class="nav-toggle" type="button" aria-label="Open navigation" aria-expanded="false" data-nav-toggle>☰</button>
+        <nav class="nav-links" aria-label="Main navigation" data-nav-links>
+          <a href="index.html">Home</a><a href="about.html">About</a><a href="products.html">Products</a><a href="health-tips.html">Health Tips</a><a href="gallery.html">Gallery</a><a href="faqs.html">FAQs</a><a href="contact.html">Contact</a>
+        </nav>
+      </div>
+    </header>
+    <main id="main">
+      <section class="page-hero">
+        <div class="section-inner">
+          <p class="breadcrumbs"><a href="index.html">Home</a> / Hosting Plan</p>
+          <h1>Hosting evaluation and SLA</h1>
+          <p class="lead">This academic page supports Section B by evaluating hosting options, recommending a platform, and listing deployment evidence screenshots to collect when the site is published.</p>
+        </div>
+      </section>
+      <section class="section">
+        <div class="section-inner">
+          <p class="lead">Sources checked: GitHub Pages is available on GitHub Free public repositories and supports custom domains/HTTPS settings; Netlify supports Git-based deploys, manual deploys, drag-and-drop deploys, and serverless form handling; AWS Amplify Hosting supports static apps with pay-as-you-go pricing and CDN delivery.</p>
+          <div class="table-wrap">
+            <table>
+              <thead><tr><th>Option</th><th>Fit for budget</th><th>Fit for audience</th><th>Long-term fit</th><th>Risks</th></tr></thead>
+              <tbody>
+                <tr><td>Ugandan shared hosting at UGX 180,000/year</td><td>Affordable within the grant, predictable annual cost.</td><td>Local support can help a non-technical cooperative.</td><td>Good for email/cPanel, but performance depends on host quality.</td><td>Manual updates, backup responsibility, variable support and uptime.</td></tr>
+                <tr><td>GitHub Pages</td><td>Free for a static site and includes HTTPS support.</td><td>Fast enough for lightweight pages, but no built-in form handling.</td><td>Good for version control and student maintenance.</td><td>Requires Git skills and no formal SLA on free static hosting.</td></tr>
+                <tr><td>Netlify pay-as-you-go cloud plan</td><td>Can start free/low-cost and scale only when usage grows.</td><td>Global CDN, HTTPS, deploy previews, and simple form support suit mobile users.</td><td>Best growth path for forms, analytics, and future CMS integration.</td><td>Requires account setup and care to avoid unexpected usage costs.</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+      <section class="section alt">
+        <div class="section-inner split">
+          <div>
+            <p class="eyebrow">Recommendation</p>
+            <h2>Use Netlify for the submitted prototype</h2>
+            <p class="lead">Netlify is recommended because the site is static, mobile-first, and may later need form handling, deploy previews, and a custom domain without the complexity of AWS. GitHub Pages is the backup if the budget must remain zero and forms are handled by phone/WhatsApp only.</p>
+          </div>
+          <div class="panel">
+            <h3>Draft SLA for Kyankima</h3>
+            <ul class="list">
+              <li>Availability target: 99.5% monthly, excluding major provider incidents and planned maintenance.</li>
+              <li>Page performance target: key pages below 1.5 MB and usable on common Android phones.</li>
+              <li>Security: HTTPS enabled before public launch; no payment instructions published without verification.</li>
+              <li>Content updates: product availability checked weekly; health tips updated monthly.</li>
+              <li>Support response: critical site-down issues reviewed within 24 hours; content corrections within 3 working days.</li>
+              <li>Backup: site source stored in a Git repository and exported monthly.</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+      <section class="section">
+        <div class="section-inner">
+          <div class="section-header">
+            <div>
+              <p class="eyebrow">Deployment evidence</p>
+              <h2>Annotated screenshot checklist</h2>
+              <p>Capture these screenshots during real publication and place them in the final report.</p>
+            </div>
+          </div>
+          <div class="grid three">
+            <article class="panel"><h3>1. Account creation</h3><p>Screenshot: Netlify/GitHub sign-up or login page after account creation. Annotation: platform selected and reason.</p></article>
+            <article class="panel"><h3>2. New site setup</h3><p>Screenshot: new project/site dashboard. Annotation: repository or folder selected for deployment.</p></article>
+            <article class="panel"><h3>3. Upload or connect repo</h3><p>Screenshot: file upload or repository connection. Annotation: files include HTML, CSS, JS, and assets.</p></article>
+            <article class="panel"><h3>4. Build settings</h3><p>Screenshot: publish directory set to project root, no build command for plain HTML. Annotation: static site deployment.</p></article>
+            <article class="panel"><h3>5. Deploy log</h3><p>Screenshot: successful deploy log. Annotation: confirms files were published without errors.</p></article>
+            <article class="panel"><h3>6. Live website</h3><p>Screenshot: browser showing homepage URL. Annotation: URL opens the functional cooperative website.</p></article>
+          </div>
+        </div>
+      </section>
+      <section class="section alt">
+        <div class="section-inner">
+          <h2>Source links</h2>
+          <ul class="list">
+            <li><a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site">GitHub Pages custom domain and HTTPS documentation</a></li>
+            <li><a href="https://docs.netlify.com/deploy/create-deploys/">Netlify create deploys documentation</a></li>
+            <li><a href="https://docs.netlify.com/">Netlify platform documentation, including forms</a></li>
+            <li><a href="https://aws.amazon.com/amplify/pricing/">AWS Amplify Hosting pricing</a></li>
+            <li><a href="https://docs.aws.amazon.com/amplify/latest/userguide/welcome.html">AWS Amplify Hosting overview</a></li>
+          </ul>
+        </div>
+      </section>
+    </main>
+    <footer class="site-footer"><div class="footer-inner"><strong>Kyankima Women's Cooperative</strong><div class="footer-links"><a href="index.html">Home</a><a href="contact.html">Contact</a></div></div></footer>
+    <script src="assets/app.js"></script>
+  </body>
+</html>

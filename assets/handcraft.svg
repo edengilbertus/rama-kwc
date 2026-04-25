@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 450" role="img" aria-labelledby="title desc">
+  <title id="title">Handcraft products</title>
+  <desc id="desc">Stylized woven baskets, mats, and beadwork.</desc>
+  <rect width="720" height="450" fill="#f6efe5"/>
+  <rect y="310" width="720" height="140" fill="#d9c8ad"/>
+  <g transform="translate(74 100)" fill="none" stroke="#8a5b35" stroke-width="10">
+    <ellipse cx="114" cy="139" rx="96" ry="38"/>
+    <path d="M19 139c24 104 168 105 190 0"/>
+    <path d="M42 135c43 35 99 35 144 0"/>
+    <path d="M58 164c43 24 78 24 112 0"/>
+    <path d="M87 99c16-62 80-62 95 0"/>
+  </g>
+  <g transform="translate(320 88)">
+    <rect x="0" y="18" width="170" height="210" rx="14" fill="#c75d4b"/>
+    <path d="M24 42h122M24 76h122M24 110h122M24 144h122M24 178h122" stroke="#f4c04d" stroke-width="8"/>
+    <path d="M43 18v210M85 18v210M127 18v210" stroke="#7a2f2c" stroke-width="7"/>
+  </g>
+  <g transform="translate(530 126)">
+    <path d="M36 46c36-42 78-42 113 0" fill="none" stroke="#204f33" stroke-width="12"/>
+    <rect x="18" y="44" width="148" height="154" rx="20" fill="#3f6f88"/>
+    <path d="M42 78h98M42 112h98M42 146h98" stroke="#d8e8ef" stroke-width="8"/>
+  </g>
+</svg>

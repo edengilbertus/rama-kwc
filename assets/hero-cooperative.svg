@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-labelledby="title desc">
+  <title id="title">Kyankima cooperative market table</title>
+  <desc id="desc">A stylized cooperative market scene with produce, baskets, and women members.</desc>
+  <rect width="960" height="720" fill="#edf4e8"/>
+  <rect y="500" width="960" height="220" fill="#d9c8ad"/>
+  <circle cx="772" cy="132" r="76" fill="#d69232"/>
+  <path d="M0 388C115 326 226 333 335 382c101 45 206 58 319 0 109-56 209-57 306 9v151H0Z" fill="#7aa95c"/>
+  <path d="M0 442c157-55 293-31 408 19 128 56 269 54 406-19 47-25 94-39 146-39v151H0Z" fill="#2e6b46"/>
+  <rect x="110" y="360" width="740" height="190" rx="18" fill="#fffaf3" stroke="#8f7a5a" stroke-width="10"/>
+  <rect x="142" y="405" width="676" height="100" rx="8" fill="#c75d4b"/>
+  <g fill="#f4c04d" stroke="#714d1f" stroke-width="6">
+    <circle cx="226" cy="386" r="28"/>
+    <circle cx="278" cy="390" r="25"/>
+    <circle cx="326" cy="384" r="30"/>
+  </g>
+  <g fill="#7aa95c" stroke="#204f33" stroke-width="6">
+    <ellipse cx="484" cy="386" rx="44" ry="26"/>
+    <ellipse cx="542" cy="389" rx="42" ry="24"/>
+    <ellipse cx="600" cy="384" rx="39" ry="22"/>
+  </g>
+  <g fill="none" stroke="#8a5b35" stroke-width="9">
+    <ellipse cx="710" cy="393" rx="66" ry="30"/>
+    <path d="M644 393c12 58 119 58 132 0"/>
+    <path d="M654 387c37 31 79 31 112 0"/>
+  </g>
+  <g>
+    <circle cx="272" cy="270" r="42" fill="#5b3a2b"/>
+    <rect x="230" y="312" width="84" height="118" rx="38" fill="#3f6f88"/>
+    <circle cx="272" cy="282" r="30" fill="#8a5b35"/>
+    <path d="M232 268c20-44 76-42 86 10-29 8-58 4-86-10Z" fill="#1f2b24"/>
+  </g>
+  <g>
+    <circle cx="488" cy="250" r="44" fill="#442a20"/>
+    <rect x="444" y="296" width="88" height="132" rx="40" fill="#2e6b46"/>
+    <circle cx="488" cy="262" r="31" fill="#9c6746"/>
+    <path d="M447 246c26-46 83-36 88 18-29 6-59 1-88-18Z" fill="#1f2b24"/>
+  </g>
+  <g>
+    <circle cx="660" cy="280" r="40" fill="#503426"/>
+    <rect x="620" y="322" width="80" height="108" rx="36" fill="#d69232"/>
+    <circle cx="660" cy="291" r="28" fill="#8a5b35"/>
+    <path d="M623 277c20-39 73-39 78 10-25 6-53 3-78-10Z" fill="#1f2b24"/>
+  </g>
+  <rect x="202" y="548" width="92" height="88" fill="#8f5b36"/>
+  <rect x="434" y="548" width="92" height="88" fill="#8f5b36"/>
+  <rect x="666" y="548" width="92" height="88" fill="#8f5b36"/>
+</svg>

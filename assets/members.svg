@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 450" role="img" aria-labelledby="title desc">
+  <title id="title">Cooperative members</title>
+  <desc id="desc">Stylized portrait of women cooperative members with produce and crafts.</desc>
+  <rect width="720" height="450" fill="#f6efe5"/>
+  <rect y="320" width="720" height="130" fill="#d9c8ad"/>
+  <g transform="translate(78 96)">
+    <circle cx="78" cy="74" r="42" fill="#8a5b35"/>
+    <path d="M39 63c24-48 82-48 86 13-30 4-58 0-86-13Z" fill="#1f2b24"/>
+    <rect x="31" y="122" width="94" height="146" rx="42" fill="#c75d4b"/>
+    <circle cx="78" cy="80" r="29" fill="#9c6746"/>
+  </g>
+  <g transform="translate(262 70)">
+    <circle cx="88" cy="86" r="48" fill="#5b3a2b"/>
+    <path d="M43 76c28-58 92-56 98 15-35 5-67 0-98-15Z" fill="#1f2b24"/>
+    <rect x="35" y="138" width="108" height="170" rx="48" fill="#2e6b46"/>
+    <circle cx="88" cy="93" r="34" fill="#8a5b35"/>
+  </g>
+  <g transform="translate(482 105)">
+    <circle cx="76" cy="70" r="40" fill="#6b4430"/>
+    <path d="M38 59c22-44 77-43 83 13-28 4-56 0-83-13Z" fill="#1f2b24"/>
+    <rect x="31" y="115" width="92" height="144" rx="41" fill="#d69232"/>
+    <circle cx="76" cy="76" r="28" fill="#8a5b35"/>
+  </g>
+  <g fill="none" stroke="#8a5b35" stroke-width="8">
+    <ellipse cx="164" cy="352" rx="70" ry="27"/>
+    <path d="M94 352c16 58 125 58 140 0"/>
+    <ellipse cx="548" cy="352" rx="70" ry="27"/>
+    <path d="M478 352c16 58 125 58 140 0"/>
+  </g>
+</svg>

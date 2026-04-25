@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 450" role="img" aria-labelledby="title desc">
+  <title id="title">Health awareness session</title>
+  <desc id="desc">Stylized health worker sharing wellness tips with cooperative members.</desc>
+  <rect width="720" height="450" fill="#edf4e8"/>
+  <rect y="318" width="720" height="132" fill="#d9c8ad"/>
+  <rect x="88" y="76" width="290" height="212" rx="12" fill="#fffaf3" stroke="#b7aa98" stroke-width="8"/>
+  <path d="M220 128h52v48h48v52h-48v48h-52v-48h-48v-52h48Z" fill="#c75d4b"/>
+  <g transform="translate(462 96)">
+    <circle cx="88" cy="78" r="46" fill="#8a5b35"/>
+    <path d="M37 67c30-62 100-56 104 19-35 5-70-1-104-19Z" fill="#1f2b24"/>
+    <rect x="34" y="126" width="108" height="160" rx="50" fill="#3f6f88"/>
+    <rect x="63" y="141" width="50" height="120" fill="#fffaf3"/>
+    <circle cx="88" cy="82" r="33" fill="#9c6746"/>
+  </g>
+  <g fill="#2e6b46">
+    <circle cx="110" cy="360" r="34"/>
+    <circle cx="184" cy="360" r="34"/>
+    <circle cx="258" cy="360" r="34"/>
+  </g>
+  <g fill="#8a5b35">
+    <circle cx="110" cy="337" r="22"/>
+    <circle cx="184" cy="337" r="22"/>
+    <circle cx="258" cy="337" r="22"/>
+  </g>
+</svg>

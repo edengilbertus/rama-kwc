@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 450" role="img" aria-labelledby="title desc">
+  <title id="title">Agriculture products</title>
+  <desc id="desc">Stylized fresh produce representing farm products.</desc>
+  <rect width="720" height="450" fill="#eef4ec"/>
+  <path d="M0 314c96-72 179-83 249-34 75 53 168 49 278-14 72-41 136-34 193 20v164H0Z" fill="#7aa95c"/>
+  <path d="M0 356c126-53 244-52 356 2 118 56 239 48 364-23v115H0Z" fill="#2e6b46"/>
+  <g transform="translate(102 88)">
+    <ellipse cx="94" cy="190" rx="82" ry="35" fill="#8a5b35"/>
+    <path d="M23 190c18 86 124 87 143 0Z" fill="#a87342"/>
+    <g fill="#f2b23a" stroke="#7a511f" stroke-width="5">
+      <circle cx="58" cy="164" r="28"/>
+      <circle cx="99" cy="156" r="33"/>
+      <circle cx="137" cy="169" r="26"/>
+    </g>
+  </g>
+  <g transform="translate(322 94)" fill="#f7d76a" stroke="#6f4c23" stroke-width="6">
+    <path d="M80 52c65 20 98 69 99 148-60-14-98-62-99-148Z"/>
+    <path d="M103 45c35 59 31 116-13 172-37-53-34-110 13-172Z"/>
+    <path d="M124 61c3 69-27 118-91 148-7-65 23-114 91-148Z"/>
+  </g>
+  <g transform="translate(498 130)" fill="#6da151" stroke="#204f33" stroke-width="6">
+    <ellipse cx="58" cy="92" rx="48" ry="28"/>
+    <ellipse cx="112" cy="96" rx="42" ry="25"/>
+    <ellipse cx="88" cy="55" rx="45" ry="27"/>
+  </g>
+</svg>
